@@ -1,0 +1,53 @@
+[{
+  "file": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_13\\Colas.hpp",
+  "directory": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_Colas",
+  "command": "clang++ -c \"C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_13\\Colas.hpp\" -o \"C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_13\\Colas.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_Colas\\NodoCola.hpp",
+  "directory": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_Colas",
+  "command": "clang++ -c \"C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_Colas\\NodoCola.hpp\" -o \"C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_Colas\\NodoCola.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_13\\Colas.cpp",
+  "directory": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_Colas",
+  "command": "clang++ -c \"C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_13\\Colas.cpp\" -o \"C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_13\\Colas.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_Colas\\NodoCola.cpp",
+  "directory": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_Colas",
+  "command": "clang++ -c \"C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_Colas\\NodoCola.cpp\" -o \"C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_Colas\\NodoCola.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_Colas\\main.cpp",
+  "directory": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_Colas",
+  "command": "clang++ -c \"C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_Colas\\main.cpp\" -o \"C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_Colas\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_13\\Pila.hpp",
+  "directory": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_Pilas",
+  "command": "clang++ -c \"C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_13\\Pila.hpp\" -o \"C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_13\\Pila.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_13\\NodoPila.hpp",
+  "directory": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_Pilas",
+  "command": "clang++ -c \"C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_13\\NodoPila.hpp\" -o \"C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_13\\NodoPila.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_13\\Pila.cpp",
+  "directory": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_Pilas",
+  "command": "clang++ -c \"C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_13\\Pila.cpp\" -o \"C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_13\\Pila.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_13\\NodoPila.cpp",
+  "directory": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_Pilas",
+  "command": "clang++ -c \"C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_13\\NodoPila.cpp\" -o \"C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_13\\NodoPila.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_Pilas\\main.cpp",
+  "directory": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_Pilas",
+  "command": "clang++ -c \"C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_Pilas\\main.cpp\" -o \"C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_Pilas\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_13\\Persona.hpp",
+  "directory": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_13",
+  "command": "clang++ -c \"C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_13\\Persona.hpp\" -o \"C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_13\\Persona.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_13\\persona.cpp",
+  "directory": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_13",
+  "command": "clang++ -c \"C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_13\\persona.cpp\" -o \"C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_13\\persona.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_13\\main.cpp",
+  "directory": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_13",
+  "command": "clang++ -c \"C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_13\\main.cpp\" -o \"C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\Sesion 3\\Ejemplo_13\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
