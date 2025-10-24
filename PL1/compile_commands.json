@@ -1,0 +1,85 @@
+[{
+  "file": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Arbol.hpp",
+  "directory": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge",
+  "command": "clang++ -c C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Arbol.hpp -o C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Arbol.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Aficionados.hpp",
+  "directory": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge",
+  "command": "clang++ -c C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Aficionados.hpp -o C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Aficionados.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Cola.hpp",
+  "directory": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge",
+  "command": "clang++ -c C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Cola.hpp -o C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Cola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Gestor.hpp",
+  "directory": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge",
+  "command": "clang++ -c C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Gestor.hpp -o C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Gestor.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Lista.hpp",
+  "directory": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge",
+  "command": "clang++ -c C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Lista.hpp -o C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Lista.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Pila.hpp",
+  "directory": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge",
+  "command": "clang++ -c C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Pila.hpp -o C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Pila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\NodoArbol.hpp",
+  "directory": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge",
+  "command": "clang++ -c C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\NodoArbol.hpp -o C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\NodoArbol.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\NodoLista.hpp",
+  "directory": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge",
+  "command": "clang++ -c C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\NodoLista.hpp -o C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\NodoLista.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\NodoCola.hpp",
+  "directory": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge",
+  "command": "clang++ -c C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\NodoCola.hpp -o C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\NodoCola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\NodoPila.hpp",
+  "directory": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge",
+  "command": "clang++ -c C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\NodoPila.hpp -o C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\NodoPila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\NodoPila.cpp",
+  "directory": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge",
+  "command": "clang++ -c C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\NodoPila.cpp -o C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\NodoPila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Arbol.cpp",
+  "directory": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge",
+  "command": "clang++ -c C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Arbol.cpp -o C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Arbol.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Cola.cpp",
+  "directory": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge",
+  "command": "clang++ -c C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Cola.cpp -o C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Cola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Gestor.cpp",
+  "directory": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge",
+  "command": "clang++ -c C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Gestor.cpp -o C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Gestor.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Lista.cpp",
+  "directory": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge",
+  "command": "clang++ -c C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Lista.cpp -o C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Lista.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\NodoArbol.cpp",
+  "directory": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge",
+  "command": "clang++ -c C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\NodoArbol.cpp -o C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\NodoArbol.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\NodoLista.cpp",
+  "directory": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge",
+  "command": "clang++ -c C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\NodoLista.cpp -o C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\NodoLista.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\NodoCola.cpp",
+  "directory": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge",
+  "command": "clang++ -c C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\NodoCola.cpp -o C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\NodoCola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Aficionados.cpp",
+  "directory": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge",
+  "command": "clang++ -c C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Aficionados.cpp -o C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Aficionados.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Pila.cpp",
+  "directory": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge",
+  "command": "clang++ -c C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Pila.cpp -o C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\Pila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\main.cpp",
+  "directory": "C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge",
+  "command": "clang++ -c C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\main.cpp -o C:\\Users\\rosaa\\Downloads\\codelite-amd64-17.0.0\\codelite\\Workspace\\PL1\\PECLBaenaAlonsoJorge\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
