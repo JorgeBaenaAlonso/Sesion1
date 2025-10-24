@@ -54,5 +54,14 @@ void Gestor::encolarAficionados() {
 
   cout << "Todos los aficionados fueron encolados correctamente." << endl;
 }
+void Gestor::muestraSociosCola(){ colaSocios.mostrar(); }
+
+void Gestor::muestraSimpatizantesCola(){ colaSimpatizantes.mostrar(); }
+
+void Gestor::borraAficionadosColas(){
+	cout << "Todos los aficionados fueron eliminados de sus colas correctamente." << endl;
+	colaSocios.eliminar();
+	colaSimpatizantes.eliminar();
+}
 
 Gestor::~Gestor() {}

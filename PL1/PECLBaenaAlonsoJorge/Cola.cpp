@@ -56,12 +56,6 @@ Aficionado* Cola::eliminar()
     return v;
 }
 
-Aficionado* Cola::verPrimero()
-{
-    if(primero)
-        return primero->valor;
-    return NULL;
-}
 
 bool Cola::estaVacia() { return primero == NULL; }
 

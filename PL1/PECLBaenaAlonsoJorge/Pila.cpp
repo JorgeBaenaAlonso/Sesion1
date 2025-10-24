@@ -10,7 +10,7 @@ Pila::Pila()
     longitud = 0;
 }
 
-void Pila::insertar(Aficionado*v)
+void Pila::insertar(Aficionado* v)
 {
     pnodoPila nuevo;
     nuevo = new NodoPila(v, ultimo); // Cambiado
@@ -34,20 +34,13 @@ Aficionado* Pila::extraer()
     return v;
 }
 
-Aficionado* Pila::cima()
-{
-    if(!ultimo)
-        return NULL;
-    return ultimo->valor;
-}
-
 void Pila::mostrar()
 {
     pnodoPila aux = ultimo;
     cout << "\tEl contenido de la pila es: ";
     while(aux) {
-        cout << "ID:" << aux->valor->getId() << " | T:" << aux->valor->getTiempoLlegada() << " | " 
-		<< (aux->valor->getEsSocio() ? "SOCIO" : "SIMPATIZANTE") << endl;
+        cout << "ID:" << aux->valor->getId() << " | T:" << aux->valor->getTiempoLlegada() << " | "
+             << (aux->valor->getEsSocio() ? "SOCIO" : "SIMPATIZANTE") << endl;
         aux = aux->siguiente;
     }
     cout << endl;
