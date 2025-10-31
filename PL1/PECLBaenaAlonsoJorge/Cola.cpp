@@ -56,6 +56,17 @@ Aficionado* Cola::eliminar()
     return v;
 }
 
+void Cola::vaciar()
+{
+	pnodoCola aux;
+	while(primero){
+		aux = primero;
+		primero = primero->siguiente;
+		delete aux->valor;
+		delete aux;
+	}
+	longitud = 0;
+}
 
 bool Cola::estaVacia() { return primero == NULL; }
 

@@ -1,6 +1,5 @@
 #include "Gestor.hpp"
-#include "Aficionados.hpp"
-#include <iostream>
+
 using namespace std;
 
 Gestor::Gestor() { ronda = 0; }
@@ -11,14 +10,20 @@ void Gestor::genera10Aficionados() {
   cout << "Id ordenadas: " << endl;
   for (int i = 0; i < n; i++) {
     a[i] = i + 10 * ronda;
-    Aficionado *aficionado = new Aficionado(a[i]);
-    pilaAficionado.insertar(aficionado);
+  }
+  random_shuffle(a, a+n);
+  for(int i = 0; i < n; i++){
     cout << a[i] << " ";
+  }
+  for(int i = 0; i < n; i++){
+    Aficionado *aficionado = new Aficionado(a[i]);
+	pilaAficionado.insertar(aficionado);
   }
   ronda++;
 }
 
 void Gestor::muestraAficionados() { pilaAficionado.mostrar(); }
+int Gestor::AficionadosEnPila() { return pilaAficionado.getLongitud(); }
 
 void Gestor::borraAficionadosPila() {
   cout << "Borrando todos los aficionados de la pila..." << endl;
@@ -54,14 +59,17 @@ void Gestor::encolarAficionados() {
 
   cout << "Todos los aficionados fueron encolados correctamente." << endl;
 }
+
 void Gestor::muestraSociosCola(){ colaSocios.mostrar(); }
+int Gestor::SociosEnCola() { return colaSocios.getLongitud(); }
 
 void Gestor::muestraSimpatizantesCola(){ colaSimpatizantes.mostrar(); }
+int Gestor::SimpatizantesEnCola() { return colaSimpatizantes.getLongitud(); }
 
 void Gestor::borraAficionadosColas(){
 	cout << "Todos los aficionados fueron eliminados de sus colas correctamente." << endl;
-	colaSocios.eliminar();
-	colaSimpatizantes.eliminar();
+	colaSocios.vaciar();
+	colaSimpatizantes.vaciar();
 }
 
 Gestor::~Gestor() {}

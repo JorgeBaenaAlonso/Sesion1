@@ -6,6 +6,7 @@
 #include "Lista.hpp"
 #include <ctime>
 #include <algorithm>
+#include <iostream>
 
 class Gestor
 {

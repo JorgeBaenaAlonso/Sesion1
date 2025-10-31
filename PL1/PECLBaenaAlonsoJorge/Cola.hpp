@@ -12,6 +12,7 @@ public:
 
     void insertar(Aficionado* v);
     Aficionado* eliminar();
+	void vaciar();
     Aficionado* verPrimero();
     bool estaVacia();
     void mostrar();

@@ -39,7 +39,7 @@ void Pila::mostrar()
     pnodoPila aux = ultimo;
     cout << "\tEl contenido de la pila es: ";
     while(aux) {
-        cout << "ID:" << aux->valor->getId() << " | T:" << aux->valor->getTiempoLlegada() << " | "
+        cout << "ID:" << aux->valor->getId() << " | Tiempo de llegada: 18:" << aux->valor->getTiempoLlegada() << " | "
              << (aux->valor->getEsSocio() ? "SOCIO" : "SIMPATIZANTE") << endl;
         aux = aux->siguiente;
     }
